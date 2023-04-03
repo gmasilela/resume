@@ -6,6 +6,7 @@ h1 {
     margin-top: 0%;
     padding: 1%;
 }
+
 h2 {
     color:navy;  
     background-color: brown;
@@ -13,6 +14,7 @@ h2 {
     margin: 5%;
     padding: 1%;
 }
+
 h3 {
     color:rgb(77, 4, 106);  
     background-color: rgb(243, 137, 137); 
@@ -20,28 +22,35 @@ h3 {
     margin: 5%;
     padding: 1%;
 }
+
 h4{
     margin-left: 33%;
     font-size: 200%;
 }
+
 nav{
     font-style: italic;
     font-weight:bolder;
 }
+
 body{
     color:purple;
     font-size: 14px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
 li {
     margin-left: 5%;
 }
+
 p {
     font-size: larger;
     margin-left: 5%;
     margin-right: 5%;
 }
+
 img {
     margin-left: 40%;
     border-radius: 50%;
 }
+

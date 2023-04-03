@@ -14,11 +14,10 @@ body {
     
 
     text-align: center;
-    color: white;
+    color: rgb(13, 0, 0);
     
     
-
-    background-image: url('images/background.jpg');
+    background-image: url('https://codetheweb.blog/assets/img/posts/full-image-hero/image.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -48,4 +47,8 @@ body {
     
     border: 3px solid white; 
     border-radius: 20px;
+}
+picture {
+    margin: 10%;
+    padding: 10%;
 }
